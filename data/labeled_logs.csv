@@ -1,0 +1,98 @@
+log,label
+ERROR DB connection timeout,Database Connectivity Issue
+ERROR database connection failed,Database Connectivity Issue
+DB connection error,Database Connectivity Issue
+DB connection timeout,Database Connectivity Issue
+Unable to connect to database,Database Connectivity Issue
+Database not reachable,Database Connectivity Issue
+Connection refused DB,Database Connectivity Issue
+DB server down,Database Connectivity Issue
+
+User login success,Successful Login Activity
+Login successful for user,Successful Login Activity
+User logged in,Successful Login Activity
+User logged in successfully,Successful Login Activity
+Login successful,Successful Login Activity
+User session started,Successful Login Activity
+Login success for user,Successful Login Activity
+
+WARNING Memory usage high,Memory Issue
+Memory exceeded threshold,Memory Issue
+Out of memory error,Memory Issue
+
+ERROR Authentication failed,Authentication Failure
+Invalid credentials login failed,Authentication Failure
+User authentication error,Authentication Failure
+Login failed due to invalid credentials,Authentication Failure
+Authentication failed for user,Authentication Failure
+Invalid password entered,Authentication Failure
+User login failed,Authentication Failure
+Access denied login,Authentication Failure
+Invalid password attempt,Authentication Failure
+User failed to login,Authentication Failure
+Wrong credentials entered,Authentication Failure
+Login attempt failed,Authentication Failure
+Access denied due to wrong password,Authentication Failure
+Authentication error occurred,Authentication Failure
+User not authorized login failed,Authentication Failure
+User login timeout after multiple attempts,Authentication Failure
+Login request timed out,Authentication Failure
+Too many login attempts detected,Authentication Failure
+Session timeout during login,Authentication Failure
+
+Payment processed successfully,Payment System Activity
+Transaction completed,Payment System Activity
+Payment success,Payment System Activity
+
+CRITICAL Kernel panic system crash,System Crash
+System crash occurred,System Crash
+Fatal system error,System Crash
+
+Unauthorized access detected,Security Breach
+Security breach detected,Security Breach
+Unauthorized access detected,Security Breach
+Security breach detected,Security Breach
+Intrusion attempt detected,Security Breach
+Unauthorized login attempt,Security Breach
+
+GET /index.html HTTP/1.1 200,Web Request Activity
+GET /home HTTP/1.1 200,Web Request Activity
+GET /about HTTP/1.1 200,Web Request Activity
+GET /contact HTTP/1.1 200,Web Request Activity
+POST /api/login HTTP/1.1 200,Web Request Activity
+GET /products HTTP/1.1 200,Web Request Activity
+GET /home HTTP/1.1 200,Web Request Activity
+GET /about HTTP/1.1 200,Web Request Activity
+POST /api/login HTTP/1.1 200,Web Request Activity
+GET /products HTTP/1.1 200,Web Request Activity
+
+GET /random HTTP/1.1 404,Page Not Found
+GET /unknown HTTP/1.1 404,Page Not Found
+GET /missing HTTP/1.1 404,Page Not Found
+Page not found error,Page Not Found
+GET /page HTTP/1.1 404,Page Not Found
+
+GET /error HTTP/1.1 500,Server Error
+GET /api HTTP/1.1 500,Server Error
+Internal server error occurred,Server Error
+Backend service failed,Server Error
+
+Kernel panic occurred,System Crash
+System crashed unexpectedly,System Crash
+Fatal system error,System Crash
+OS crash detected,System Crash
+Critical failure in kernel,System Crash
+System halted due to error,System Crash
+
+HTTP 500 internal server error,Server Error
+Backend crashed with error 500,Server Error
+Server returned 500 error,Server Error
+API failed with status 500,Server Error
+Unexpected server failure occurred,Server Error
+HTTP 500 error occurred,Server Error
+Internal server error at backend,Server Error
+Server returned status 500,Server Error
+Backend API crashed,Server Error
+Service unavailable error,Server Error
+Application server failure,Server Error
+Unexpected server crash detected,Server Error
